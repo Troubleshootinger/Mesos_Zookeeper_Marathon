@@ -54,3 +54,6 @@ master+slave    我们这边按照3主2从来做案例
 以上步骤完成后切记：
 master中启动的服务：service marathon start      service zookeeper start     service mesos-master start    关闭的服务：service mesos-slave stop
 slave中启动的服务：	service mesos-slave start 	关闭的服务：service mesos-master stop  service zookeeper stop
+########################################################################################################################
+
+http://blog.chinaunix.net/uid-20104120-id-5375253.html
